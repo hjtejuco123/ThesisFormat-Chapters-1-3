@@ -132,3 +132,107 @@ This chapter details the methods and procedures used to conduct the research.
 ### **BIBLIOGRAPHY**
 - A comprehensive list of all sources cited in the thesis, formatted according to a specific citation style (e.g., APA, MLA, Chicago). It demonstrates the depth of research and supports the credibility of the study.
 
+### **General Guidelines for APA Bibliography**
+1. **Title**: The bibliography should be titled **"References"** (centered, bold, at the top of the page).
+2. **Ordering**: List entries alphabetically by the author's last name.
+3. **Indentation**: Use a **hanging indent** (first line flush left, subsequent lines indented by 0.5 inches).
+4. **Capitalization**: Use sentence case for titles of articles, books, and web pages (capitalize only the first word and proper nouns). For journal titles, use title case (capitalize all major words).
+5. **Italics**: Italicize titles of books, journals, and standalone works.
+6. **DOI or URL**: Include a DOI (Digital Object Identifier) if available. If no DOI is available, include a stable URL (without "Retrieved from" unless there’s a retrieval date).
+
+---
+
+### **Examples of APA Citations**
+
+#### **1. Journal Article with DOI**
+- **Format**:
+  Author, A. A., & Author, B. B. (Year). Title of article. *Title of Journal, Volume*(Issue), Page range. https://doi.org/xxxx
+- **Example**:
+  Smith, J. A., & Lee, K. T. (2023). The impact of climate change on biodiversity. *Environmental Studies Quarterly, 45*(3), 245-260. https://doi.org/10.1234/esq.2023.5678
+
+---
+
+#### **2. Book**
+- **Format**:
+  Author, A. A. (Year). *Title of book*. Publisher.
+- **Example**:
+  Johnson, R. S. (2020). *Understanding human behavior: A psychological perspective*. Academic Press.
+
+---
+
+#### **3. Chapter in an Edited Book**
+- **Format**:
+  Author, A. A. (Year). Title of chapter. In A. Editor & B. Editor (Eds.), *Title of book* (pp. xx-xx). Publisher.
+- **Example**:
+  Brown, L. M. (2019). Cognitive development in early childhood. In R. T. Smith & P. J. Adams (Eds.), *Child psychology: Theory and practice* (pp. 123-145). Wiley.
+
+---
+
+#### **4. Website**
+- **Format**:
+  Author, A. A. (Year, Month Day). Title of webpage. *Website Name*. URL
+- **Example**:
+  National Institute of Mental Health. (2023, January 15). Anxiety disorders. *NIMH*. https://www.nimh.nih.gov/health/topics/anxiety-disorders
+
+---
+
+#### **5. Online Article (No DOI)**
+- **Format**:
+  Author, A. A. (Year, Month Day). Title of article. *Name of Website*. URL
+- **Example**:
+  Anderson, T. (2022, March 10). The future of renewable energy. *GreenTech Daily*. https://www.greentechdaily.com/future-renewable-energy
+
+---
+
+#### **6. Conference Paper**
+- **Format**:
+  Author, A. A. (Year). Title of paper. In A. Editor (Ed.), *Title of conference proceedings* (pp. xx-xx). Publisher. URL or DOI
+- **Example**:
+  Patel, N. R. (2021). Advances in artificial intelligence. In J. Kim (Ed.), *Proceedings of the International AI Conference 2021* (pp. 89-102). Springer. https://doi.org/10.1007/978-3-030-12345-6_7
+
+---
+
+#### **7. Thesis or Dissertation**
+- **Format**:
+  Author, A. A. (Year). *Title of dissertation or thesis* (Publication No. xxx) [Doctoral dissertation/Master’s thesis, Institution]. Database Name.
+- **Example**:
+  Garcia, M. L. (2022). *The effects of social media on adolescent mental health* (Publication No. 1234567) [Doctoral dissertation, University of California]. ProQuest Dissertations and Theses Global.
+
+---
+
+#### **8. YouTube Video**
+- **Format**:
+  Author, A. A. [Screen name]. (Year, Month Day). *Title of video* [Video]. YouTube. URL
+- **Example**:
+  TEDx Talks. (2020, February 12). *The power of vulnerability* [Video]. YouTube. https://www.youtube.com/watch?v=xxx
+
+---
+
+#### **9. Government Report**
+- **Format**:
+  Organization Name. (Year). *Title of report* (Report No. xxx). URL
+- **Example**:
+  United Nations. (2022). *World population prospects 2022* (Report No. ST/ESA/SER.A/489). https://www.un.org/en/desa/population
+
+---
+
+### **Sample Bibliography Page**
+
+**References**
+
+Brown, L. M. (2019). Cognitive development in early childhood. In R. T. Smith & P. J. Adams (Eds.), *Child psychology: Theory and practice* (pp. 123-145). Wiley.
+
+Garcia, M. L. (2022). *The effects of social media on adolescent mental health* (Publication No. 1234567) [Doctoral dissertation, University of California]. ProQuest Dissertations and Theses Global.
+
+Johnson, R. S. (2020). *Understanding human behavior: A psychological perspective*. Academic Press.
+
+National Institute of Mental Health. (2023, January 15). Anxiety disorders. *NIMH*. https://www.nimh.nih.gov/health/topics/anxiety-disorders
+
+Patel, N. R. (2021). Advances in artificial intelligence. In J. Kim (Ed.), *Proceedings of the International AI Conference 2021* (pp. 89-102). Springer. https://doi.org/10.1007/978-3-030-12345-6_7
+
+Smith, J. A., & Lee, K. T. (2023). The impact of climate change on biodiversity. *Environmental Studies Quarterly, 45*(3), 245-260. https://doi.org/10.1234/esq.2023.5678
+
+TEDx Talks. (2020, February 12). *The power of vulnerability* [Video]. YouTube. https://www.youtube.com/watch?v=xxx
+
+United Nations. (2022). *World population prospects 2022* (Report No. ST/ESA/SER.A/489). https://www.un.org/en/desa/population
+
