@@ -286,16 +286,16 @@ User Inputs (Tasks, Deadlines, Preferences)
 
 The study is anchored on:
 
-Human-Computer Interaction (HCI) Theory – Ensures usability, learnability, and accessibility.
-Behavioral Change Theory – Suggests that timely cues and feedback improve habit formation.
-Adaptive Systems Theory – Supports dynamic system responses based on user data
+- Human-Computer Interaction (HCI) Theory – Ensures usability, learnability, and accessibility.
+- Behavioral Change Theory – Suggests that timely cues and feedback improve habit formation.
+- Adaptive Systems Theory – Supports dynamic system responses based on user data
 
 ### Definition of Terms
 
-Intelligent Reminder – A system-generated notification that adapts based on user behavior.
-Task Completion Rate – Percentage of tasks completed within the scheduled time.
-Productivity Analytics – Visual representation of task performance data.
-Usability – The ease with which users interact with the system.
+- Intelligent Reminder – A system-generated notification that adapts based on user behavior.
+- Task Completion Rate – Percentage of tasks completed within the scheduled time.
+- Productivity Analytics – Visual representation of task performance data.
+- Usability – The ease with which users interact with the system.
 
 ---
 
@@ -303,16 +303,16 @@ Usability – The ease with which users interact with the system.
 REVIEW OF RELATED LITERATURE
 
 ### Task-Management Applications
-Studies indicate that digital task managers improve organization but often fail due to notification fatigue and poor design. Applications such as Todoist and Microsoft To Do provide reminders but lack adaptive intelligence
+- Studies indicate that digital task managers improve organization but often fail due to notification fatigue and poor design. Applications such as Todoist and Microsoft To Do provide reminders but lack adaptive intelligence
 
 ### Intelligent Reminder Systems
-Research on context-aware systems shows that adaptive notifications significantly increase user compliance. Intelligent reminders consider time patterns, workload, and past behavior.
+- Research on context-aware systems shows that adaptive notifications significantly increase user compliance. Intelligent reminders consider time patterns, workload, and past behavior.
 
 ### Productivity Analytics
-Analytics dashboards help users reflect on habits, identify inefficiencies, and adjust behaviors. Visualization tools are shown to increase engagement and self-regulation.
+- Analytics dashboards help users reflect on habits, identify inefficiencies, and adjust behaviors. Visualization tools are shown to increase engagement and self-regulation.
 
 ### Research Gap
-Most existing systems implement reminders and analytics independently. Few studies explore a fully integrated mobile solution that adapts reminders while providing actionable productivity insights.
+- Most existing systems implement reminders and analytics independently. Few studies explore a fully integrated mobile solution that adapts reminders while providing actionable productivity insights.
 
 ---
 
@@ -320,7 +320,7 @@ Most existing systems implement reminders and analytics independently. Few studi
 METHODOLOGY
 
 ### Research Design
-A descriptive-evaluative and design-science research approach was used.
+- A descriptive-evaluative and design-science research approach was used.
 
 ### System Architecture
 - Frontend: Android (Kotlin)
@@ -329,40 +329,40 @@ A descriptive-evaluative and design-science research approach was used.
 - Notification Engine: Adaptive reminder scheduling logic
 
 ### Development Methodology
-Agile Scrum framework with iterative development cycles.
-	Planning
-	Design
-	Development
-	Testing
-	Review
+- Agile Scrum framework with iterative development cycles.
+	- Planning
+	- Design
+	- Development
+	- Testing
+	- Review
 
 ### Evaluation Techniques
-1. Functional Testing
+-  Functional Testing
 	Black-box testing
 	Verification of core features (task creation, reminders, analytics)
 
-2. Usability Testing
+-  Usability Testing
 	System Usability Scale (SUS)
 	User satisfaction surveys
 
-3. Performance Evaluation
+-  Performance Evaluation
 	Response time measurement
 	Notification delivery accuracy
 
-4. Comparative Evaluation
+-  Comparative Evaluation
 	Comparison with traditional task-management apps
 	Task completion rate analysis
 
-5. Statistical Treatment
+- . Statistical Treatment
 	Mean and standard deviation
 	Paired t-test for performance comparison
 
 ### Respondents
-50 participants using convenience sampling.
+- 50 participants using convenience sampling.
 
 ### Data Collection Schedule
-Testing conducted over a six-week period with weekly evaluations.
+- Testing conducted over a six-week period with weekly evaluations.
 
 ### Ethical Considerations
-Participant consent, data privacy, and anonymity were ensured.
+- Participant consent, data privacy, and anonymity were ensured.
 
