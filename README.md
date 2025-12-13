@@ -366,3 +366,9 @@ METHODOLOGY
 ### Ethical Considerations
 - Participant consent, data privacy, and anonymity were ensured.
 
+### Bibliography (Example)
+
+- Smith and A. Johnson, Mobile Productivity Tools, Journal of Mobile Computing, 2024
+- R. Lee, AI Reminders in Personal Digital Assistants, IEEE, 2023.
+- T. Nguyen, Analytics for Behavior Change, Human Factors Journal, 2025.
+
