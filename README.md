@@ -368,7 +368,7 @@ METHODOLOGY
 
 ### Bibliography (Example)
 
-- Smith and A. Johnson, Mobile Productivity Tools, Journal of Mobile Computing, 2024
-- R. Lee, AI Reminders in Personal Digital Assistants, IEEE, 2023.
-- T. Nguyen, Analytics for Behavior Change, Human Factors Journal, 2025.
+- Smith and A. Johnson(2024), Mobile Productivity Tools, Journal of Mobile Computing
+- R. Lee(2023), AI Reminders in Personal Digital Assistants, IEEE.
+- T. Nguyen(2025), Analytics for Behavior Change, Human Factors Journal.
 
