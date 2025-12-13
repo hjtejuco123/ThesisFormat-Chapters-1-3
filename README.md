@@ -236,3 +236,133 @@ TEDx Talks. (2020, February 12). *The power of vulnerability* [Video]. YouTube. 
 
 United Nations. (2022). *World population prospects 2022* (Report No. ST/ESA/SER.A/489). https://www.un.org/en/desa/population
 
+---
+
+# SMARTTASK: A MOBILE TASK-MANAGEMENT APPLICATION WITH INTELLIGENT REMINDER AND PRODUCTIVITY ANALYTICS
+
+## CHAPTER 1
+INTRODUCTION
+
+### Background of the Study
+The rapid advancement of mobile computing has transformed how individuals manage daily activities, academic responsibilities, and professional workloads. Smartphones have become essential tools for communication, information access, and personal organization. Among the most widely used applications are task-management systems, which assist users in tracking activities, deadlines, and priorities.
+
+Despite the availability of numerous task-management applications, many users still experience difficulties such as missed deadlines, poor prioritization, and lack of awareness of their productivity patterns. Most existing applications rely on static reminders, requiring users to manually set alerts without considering user behavior, task urgency, or historical usage patterns.
+
+This study proposes SmartTask, a mobile task-management application that integrates intelligent reminder scheduling and productivity analytics to improve user task completion and time-management efficiency.
+
+### Statement of the Problem
+1. How effective are traditional task-management applications in helping users complete tasks on time?
+2. How can an intelligent reminder system improve task completion rates?
+3. How usable and user-friendly is an intelligent task-management application?
+4. How can productivity analytics help users improve task-management behavior?
+5. How effective is the proposed system compared to existing solutions?
+
+### Objectives of the Study
+**General Objective:**  
+To design, develop, and evaluate a mobile task-management application with intelligent reminders and analytics.
+
+**Specific Objectives:**
+1. Implement adaptive intelligent reminders.
+2. Design a user-friendly interface.
+3. Integrate productivity analytics.
+4. Evaluate usability, performance, and effectiveness.
+5. Compare the system with traditional applications.
+
+### Significance of the Study
+The study benefits students, professionals, developers, and researchers by providing an intelligent and data-driven productivity tool.
+
+### Scope and Delimitations
+The study focuses on Android devices and individual task management within a six-week evaluation period.
+
+### Conceptual Framework
+
+User Inputs (Tasks, Deadlines, Preferences)
+→ Intelligent Reminder Engine (Behavior Analysis & Scheduling)
+→ Task Execution & Data Collection
+→ Productivity Analytics Dashboard
+→ Improved Task Completion & Time Management
+
+### Theoretical Framework
+
+The study is anchored on:
+
+Human-Computer Interaction (HCI) Theory – Ensures usability, learnability, and accessibility.
+Behavioral Change Theory – Suggests that timely cues and feedback improve habit formation.
+Adaptive Systems Theory – Supports dynamic system responses based on user data
+
+### Definition of Terms
+
+Intelligent Reminder – A system-generated notification that adapts based on user behavior.
+Task Completion Rate – Percentage of tasks completed within the scheduled time.
+Productivity Analytics – Visual representation of task performance data.
+Usability – The ease with which users interact with the system.
+
+---
+
+## CHAPTER 2
+REVIEW OF RELATED LITERATURE
+
+### Task-Management Applications
+Studies indicate that digital task managers improve organization but often fail due to notification fatigue and poor design. Applications such as Todoist and Microsoft To Do provide reminders but lack adaptive intelligence
+
+### Intelligent Reminder Systems
+Research on context-aware systems shows that adaptive notifications significantly increase user compliance. Intelligent reminders consider time patterns, workload, and past behavior.
+
+### Productivity Analytics
+Analytics dashboards help users reflect on habits, identify inefficiencies, and adjust behaviors. Visualization tools are shown to increase engagement and self-regulation.
+
+### Research Gap
+Most existing systems implement reminders and analytics independently. Few studies explore a fully integrated mobile solution that adapts reminders while providing actionable productivity insights.
+
+---
+
+## CHAPTER 3
+METHODOLOGY
+
+### Research Design
+A descriptive-evaluative and design-science research approach was used.
+
+### System Architecture
+- Frontend: Android (Kotlin)
+- Backend: Firebase
+- Analytics: Python-based processing
+- Notification Engine: Adaptive reminder scheduling logic
+
+### Development Methodology
+Agile Scrum framework with iterative development cycles.
+	Planning
+	Design
+	Development
+	Testing
+	Review
+
+### Evaluation Techniques
+1. Functional Testing
+	Black-box testing
+	Verification of core features (task creation, reminders, analytics)
+
+2. Usability Testing
+	System Usability Scale (SUS)
+	User satisfaction surveys
+
+3. Performance Evaluation
+	Response time measurement
+	Notification delivery accuracy
+
+4. Comparative Evaluation
+	Comparison with traditional task-management apps
+	Task completion rate analysis
+
+5. Statistical Treatment
+	Mean and standard deviation
+	Paired t-test for performance comparison
+
+### Respondents
+50 participants using convenience sampling.
+
+### Data Collection Schedule
+Testing conducted over a six-week period with weekly evaluations.
+
+### Ethical Considerations
+Participant consent, data privacy, and anonymity were ensured.
+
