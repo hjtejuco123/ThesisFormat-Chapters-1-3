@@ -244,7 +244,7 @@ United Nations. (2022). *World population prospects 2022* (Report No. ST/ESA/SER
 INTRODUCTION
 
 ### Background of the Study
-The rapid advancement of mobile computing has transformed how individuals manage daily activities, academic responsibilities, and professional workloads. Smartphones have become essential tools for communication, information access, and personal organization. Among the most widely used applications are task-management systems, which assist users in tracking activities, deadlines, and priorities.
+The rapid advancement of computing has transformed how individuals manage daily activities, academic responsibilities, and professional workloads. Web applications have become essential tools for communication, information access, and personal organization. Among the most widely used applications are task-management systems, which assist users in tracking activities, deadlines, and priorities.
 
 Despite the availability of numerous task-management applications, many users still experience difficulties such as missed deadlines, poor prioritization, and lack of awareness of their productivity patterns. Most existing applications rely on static reminders, requiring users to manually set alerts without considering user behavior, task urgency, or historical usage patterns.
 
