@@ -290,6 +290,27 @@ The study is anchored on:
 - Behavioral Change Theory – Suggests that timely cues and feedback improve habit formation.
 - Adaptive Systems Theory – Supports dynamic system responses based on user data
 
+
+### Theoretical Framework
+
+This study is anchored on Human–Computer Interaction (HCI) Theory, Behavioral Change Theory, and Adaptive Systems Theory, and is operationalized through algorithmic models from computer science.
+
+- Human–Computer Interaction (HCI) Theory
+
+-- HCI theory guides the design of SmartTask to ensure usability, learnability, and reduced cognitive load. Algorithmic prioritization and scheduling techniques, such as priority scoring and Earliest Deadline First (EDF), limit information overload by surfacing only the most relevant tasks. Adaptive reminder timing further improves user experience by minimizing disruptive interactions.
+
+Behavioral Change Theory
+
+Behavioral Change Theory supports the use of timely cues and feedback to encourage habit formation and improved task completion. SmartTask implements this theory through learning-based algorithms, including contextual multi-armed bandits and reinforcement learning, which optimize reminder timing and frequency based on user response and task completion outcomes.
+
+Adaptive Systems Theory
+
+Adaptive Systems Theory underpins SmartTask’s ability to dynamically adjust its behavior using user data. Machine learning and data analytics algorithms—including supervised learning, clustering, time-series analysis, and anomaly detection—enable the system to continuously learn from user interactions and evolve its reminder strategies and productivity insights.
+
+Integrative Perspective
+
+Together, these theories provide the conceptual foundation, while the algorithms serve as the mechanisms that operationalize theoretical principles into system behavior, resulting in improved task completion and time management.
+
 ### Definition of Terms
 
 - Intelligent Reminder – A system-generated notification that adapts based on user behavior.
