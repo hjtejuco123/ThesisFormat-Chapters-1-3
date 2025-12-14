@@ -259,7 +259,7 @@ This study proposes SmartTask, a mobile task-management application that integra
 
 ### Objectives of the Study
 **General Objective:**  
-To design, develop, and evaluate a mobile task-management application with intelligent reminders and analytics.
+To design, develop, and evaluate a web application task-management application with intelligent reminders and analytics.
 
 **Specific Objectives:**
 1. Implement adaptive intelligent reminders.
@@ -272,7 +272,7 @@ To design, develop, and evaluate a mobile task-management application with intel
 The study benefits students, professionals, developers, and researchers by providing an intelligent and data-driven productivity tool.
 
 ### Scope and Delimitations
-The study focuses on Android devices and individual task management within a six-week evaluation period.
+The study focuses on web application and individual task management within a six-week evaluation period.
 
 ### Conceptual Framework
 
@@ -323,9 +323,9 @@ METHODOLOGY
 - A descriptive-evaluative and design-science research approach was used.
 
 ### System Architecture
-- Frontend: Android (Kotlin)
-- Backend: Firebase
-- Analytics: Python-based processing
+- Frontend: SB-ADMIN-2
+- Backend: MySQL
+- Analytics: web application framework 
 - Notification Engine: Adaptive reminder scheduling logic
 
 ### Development Methodology
