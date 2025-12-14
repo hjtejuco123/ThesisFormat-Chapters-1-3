@@ -297,7 +297,7 @@ This study is anchored on Human–Computer Interaction (HCI) Theory, Behavioral 
 
 - Human–Computer Interaction (HCI) Theory
 
-- HCI theory guides the design of SmartTask to ensure usability, learnability, and reduced cognitive load. Algorithmic prioritization and scheduling techniques, such as priority scoring and Earliest Deadline First (EDF), limit information overload by surfacing only the most relevant tasks. Adaptive reminder timing further improves user experience by minimizing disruptive interactions.
+	- HCI theory guides the design of SmartTask to ensure usability, learnability, and reduced cognitive load. Algorithmic prioritization and scheduling techniques, such as priority scoring and Earliest Deadline First (EDF), limit information overload by surfacing only the most relevant tasks. Adaptive reminder timing further improves user experience by minimizing disruptive interactions.
 
 Behavioral Change Theory
 
