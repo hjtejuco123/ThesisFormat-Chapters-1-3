@@ -248,7 +248,7 @@ The rapid advancement of computing has transformed how individuals manage daily 
 
 Despite the availability of numerous task-management applications, many users still experience difficulties such as missed deadlines, poor prioritization, and lack of awareness of their productivity patterns. Most existing applications rely on static reminders, requiring users to manually set alerts without considering user behavior, task urgency, or historical usage patterns.
 
-This study proposes SmartTask, a mobile task-management application that integrates intelligent reminder scheduling and productivity analytics to improve user task completion and time-management efficiency.
+This study proposes SmartTask, a web application task-management application that integrates intelligent reminder scheduling and productivity analytics to improve user task completion and time-management efficiency.
 
 ### Statement of the Problem
 1. How effective are traditional task-management applications in helping users complete tasks on time?
@@ -284,15 +284,15 @@ This study is anchored on Human–Computer Interaction (HCI) Theory, Behavioral 
 
 - Behavioral Change Theory
 
-	Behavioral Change Theory supports the use of timely cues and feedback to encourage habit formation and improved task completion. SmartTask implements this theory through learning-based algorithms, including contextual multi-armed bandits and reinforcement learning, which optimize reminder timing and frequency based on user response and task completion outcomes.
+	- Behavioral Change Theory supports the use of timely cues and feedback to encourage habit formation and improved task completion. SmartTask implements this theory through learning-based algorithms, including contextual multi-armed bandits and reinforcement learning, which optimize reminder timing and frequency based on user response and task completion outcomes.
 
 - Adaptive Systems Theory
 
-	Adaptive Systems Theory underpins SmartTask’s ability to dynamically adjust its behavior using user data. Machine learning and data analytics algorithms—including supervised learning, clustering, time-series analysis, and anomaly detection—enable the system to continuously learn from user interactions and evolve its reminder strategies and productivity insights.
+	- Adaptive Systems Theory underpins SmartTask’s ability to dynamically adjust its behavior using user data. Machine learning and data analytics algorithms—including supervised learning, clustering, time-series analysis, and anomaly detection—enable the system to continuously learn from user interactions and evolve its reminder strategies and productivity insights.
 
 - Integrative Perspective
 
-	Together, these theories provide the conceptual foundation, while the algorithms serve as the mechanisms that operationalize theoretical principles into system behavior, resulting in improved task completion and time management.
+	- Together, these theories provide the conceptual foundation, while the algorithms serve as the mechanisms that operationalize theoretical principles into system behavior, resulting in improved task completion and time management.
 
 ### Conceptual Framework (IPO Approach)
 
@@ -395,25 +395,25 @@ METHODOLOGY
 	- Review
 
 ### Evaluation Techniques
--  Functional Testing
-	Black-box testing
-	Verification of core features (task creation, reminders, analytics)
+- Functional Testing
+	- Black-box testing
+	- Verification of core features (task creation, reminders, analytics)
 
--  Usability Testing
-	System Usability Scale (SUS)
-	User satisfaction surveys
+- Usability Testing
+	- System Usability Scale (SUS)
+	- User satisfaction surveys
 
--  Performance Evaluation
-	Response time measurement
-	Notification delivery accuracy
+- Performance Evaluation
+	- Response time measurement
+	- Notification delivery accuracy
 
--  Comparative Evaluation
-	Comparison with traditional task-management apps
-	Task completion rate analysis
+- Comparative Evaluation
+	- Comparison with traditional task-management apps
+	- Task completion rate analysis
 
-- . Statistical Treatment
-	Mean and standard deviation
-	Paired t-test for performance comparison
+- Statistical Treatment
+	- Mean and standard deviation
+	- Paired t-test for performance comparison
 
 ### Respondents
 - 50 participants using convenience sampling.
